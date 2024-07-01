@@ -32,11 +32,13 @@
 </ul>
     
 
-https://github.com/Hammad-Bangash/Urdu-Text-to-Speech-TTS-for-Male-Voice/assets/129145452/9a640156-62d2-45d2-b275-3e6eeae5c6fd
-    <h2>Telegram Interface</h2>
-    <p>We utilized a Telegram interface for model inference, making it easy to interact with the model and get real-time results.</p>
-    <h2>Data Requests</h2>
-    <p>Due to privacy and storage limitations, we won't be uploading the dataset audios and other files. If you are interested in accessing the dataset, please email us at <a href="mailto:hammadraza12304@gmail.com">hammadraza12304@gmail.com</a>.</p>
+https://github.com/Hammad-Bangash/Urdu-Text-to-Speech-TTS-for-Male-Voice/assets/129145452/6c827769-0a8b-4f83-8f96-c315c7b555b8
+
+
+<h2>Telegram Interface</h2>
+<p>We utilized a Telegram interface for model inference, making it easy to interact with the model and get real-time results.</p>
+<h2>Data Requests</h2>
+<p>Due to privacy and storage limitations, we won't be uploading the dataset audios and other files. If you are interested in accessing the dataset, please email us at <a href="mailto:hammadraza12304@gmail.com">hammadraza12304@gmail.com</a>.</p>
 <h2>Microsoft SpeechT5 Model</h2>
     <p>For more information on the Microsoft SpeechT5 model, visit the official page: <a href="https://github.com/microsoft/SpeechT5">Microsoft SpeechT5</a>.</p>
 </body>
