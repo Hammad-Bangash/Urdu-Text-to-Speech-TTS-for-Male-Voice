@@ -30,9 +30,8 @@
 <li><strong>Accuracy:</strong> The accuracy of the generated speech was measured against the original audio samples.</li>
 <li><strong>Naturalness:</strong> Human evaluators rated the naturalness and clarity of the synthesized speech.</li>
 </ul>
-    
 
-https://github.com/Hammad-Bangash/Urdu-Text-to-Speech-TTS-for-Male-Voice/assets/129145452/6c827769-0a8b-4f83-8f96-c315c7b555b8
+
 
 
 <h2>Telegram Interface</h2>
