@@ -30,9 +30,12 @@
 <li><strong>Accuracy:</strong> The accuracy of the generated speech was measured against the original audio samples.</li>
 <li><strong>Naturalness:</strong> Human evaluators rated the naturalness and clarity of the synthesized speech.</li>
 </ul>
-  <h2>Demo Video</h2>
-   <p>Watch the demo video to see our Urdu TTS model in action:</p>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Demo Video</a>
+<h2>Demo Video</h2>
+    <p>Watch the demo video to see our Urdu TTS model in action:</p>
+    <video width="600" controls>
+        <source src="WorkingDemo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
     <h2>Telegram Interface</h2>
     <p>We utilized a Telegram interface for model inference, making it easy to interact with the model and get real-time results.</p>
     <h2>Data Requests</h2>
