@@ -30,12 +30,11 @@
 <li><strong>Accuracy:</strong> The accuracy of the generated speech was measured against the original audio samples.</li>
 <li><strong>Naturalness:</strong> Human evaluators rated the naturalness and clarity of the synthesized speech.</li>
 </ul>
-<h2>Demo Video</h2>
-    <p>Watch the demo video to see our Urdu TTS model in action:</p>
-    <video width="600" controls>
-        <source src="WorkingDemo.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
+    
+
+https://github.com/Hammad-Bangash/Urdu-Text-to-Speech-TTS-for-Male-Voice/assets/129145452/9a640156-62d2-45d2-b275-3e6eeae5c6fd
+
+
     <h2>Telegram Interface</h2>
     <p>We utilized a Telegram interface for model inference, making it easy to interact with the model and get real-time results.</p>
     <h2>Data Requests</h2>
