@@ -33,8 +33,6 @@
     
 
 https://github.com/Hammad-Bangash/Urdu-Text-to-Speech-TTS-for-Male-Voice/assets/129145452/9a640156-62d2-45d2-b275-3e6eeae5c6fd
-
-
     <h2>Telegram Interface</h2>
     <p>We utilized a Telegram interface for model inference, making it easy to interact with the model and get real-time results.</p>
     <h2>Data Requests</h2>
